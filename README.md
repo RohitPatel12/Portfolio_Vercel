@@ -37,11 +37,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Software Developer Portfolio Template built with Next.js bootstrap that helps you showcase your work and skills as a software developer.
 
-### To view a live example, **[click here](https://itszee.vercel.app/)**.
+### To view a live example, **[click here]()**.
 
 <p align="center">
   <kbd>
-    <img src="https://github.com/Estone6/portfolio/blob/develop/picture.PNG"></img>
+    <img src="https://github.com/RohitPatel12/Portfolio_Vercel/blob/main/picture.PNG"></img>
   </kbd>
 </p>
 
