@@ -1,28 +1,18 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
+import Lottie from "react-lottie";
 
 const GreetingLottie = ({ animationPath }) => {
-  const [Lottie, setLottie] = useState(null);
+	const defaultOptions = {
+		loop: true,
+		autoplay: true,
+		path: animationPath,
+	};
 
-  useEffect(() => {
-    // Dynamically import react-lottie only on the client
-    import("react-lottie").then((module) => setLottie(module.default));
-  }, []);
-
-  if (!Lottie) {
-    return <div>Loading animation...</div>; // Optional: Fallback while Lottie is loading
-  }
-
-  const defaultOptions = {
-    loop: true,
-    autoplay: true,
-    path: animationPath,
-  };
-
-  return (
-    <div>
-      <Lottie options={defaultOptions} />
-    </div>
-  );
+	return (
+		<div onClick={() => null}>
+			<Lottie options={defaultOptions} />
+		</div>
+	);
 };
 
 export default GreetingLottie;
