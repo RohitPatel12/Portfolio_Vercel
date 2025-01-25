@@ -134,7 +134,7 @@ export const educationInfo = [
 
 export const experience = [
   {
-    role: "Software Devloper",
+    role: "Software Developer",
     company: "TCS",
     companylogo: "/img/icons/common/TCS.png",
     date: "Sep 2022 – Present",
