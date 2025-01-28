@@ -23,7 +23,7 @@ export default function Home({ githubProfileData }) {
             "A passionate Full Stack Web Developer and Mobile App Developer.",
           image:
             "https://avatars.githubusercontent.com/u/52932575?s=400&u=cad3175b613e8b755d4b651951ba5c4f88bb9f1a&v=4",
-          url: "",
+          url: "https://portfolio-vercel-l234z2hj5-rohits-projects-2775de2f.vercel.app/",
           keywords: [
             "Rohit",
             "Rohit Patel",
