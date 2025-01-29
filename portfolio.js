@@ -4,9 +4,9 @@ export const greetings = {
   name: "Rohit Patel",
   title: "Hi all, I'm Rohit",
   description:
-    "A passionate Full Stack Web Developer and Mobile App Developer having 3+ yrs experience of building Web applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks and Cross Platform Mobile Apps With React Native.",
+    "I turn coffee into code and ideas into apps. Passionate about building scalable, user-friendly solutions with cloud, AI, and agile magic. Team player, problem-solver, and tech trend enthusiast—always ready to create something awesome.",
   resumeLink:
-    "https://drive.google.com/file/d/1tbxSockRIta-8ZnTOHXu4GLcYwEIwGF8/view?usp=sharing",
+    "https://drive.google.com/drive/folders/1qMhhvlNjDZC0iJPQ84ozkBxcyDVj1b2M",
 };
 
 export const openSource = {
