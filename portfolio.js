@@ -138,14 +138,14 @@ export const experience = [
     company: "TCS",
     companylogo: "/img/icons/common/TCS.png",
     date: "Sep 2022 – Present",
-    desc: "Working as Software Deve;oper having responsibilities of web and mobile applications.",
+    desc: "As a software developer, I am responsible for developing and enhancing both web and mobile applications, ensuring smooth functionality, usability, and performance across platforms.",
   },
   {
     role: "Software Engineer",
     company: "TCS",
     companylogo: "/img/icons/common/TCS.png",
-    date: "Apr 2019 – may 2021",
-    desc: "Requirement to Deployment ready feature in very efficient manner and minimal time",
+    date: "Apr 2021 – may 2022",
+    desc: "I worked as a software engineer, crafting efficient and reliable software solutions through design, development, and ongoing maintenance.",
   },
   // {
   //   role: "Software Engineer Trainee",
