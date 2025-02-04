@@ -6,7 +6,7 @@ export const greetings = {
   description:
     "I turn coffee into code and ideas into apps. Passionate about building scalable, user-friendly solutions with cloud, AI, and agile magic. Team player, problem-solver, and tech trend enthusiast—always ready to create something awesome.",
   resumeLink:
-    "https://drive.google.com/drive/folders/1qMhhvlNjDZC0iJPQ84ozkBxcyDVj1b2M",
+    "https://drive.google.com/drive/folders/1rGI5dCM1frtaWvamTl1ZZ7IA3ZiDUWfp",
 };
 
 export const openSource = {
@@ -18,7 +18,7 @@ export const contact = {};
 export const socialLinks = {
   linkedin: "https://www.linkedin.com/in/rohit-patel-857b5416b/",
   github: "https://github.com/RohitPatel12",
-  instagram: "",
+  instagram: "https://www.instagram.com/wah_yar_rohit/?igsh=MWd0a3FwcTRrMDN5Yw%3D%3D&utm_source=qr#",
   facebook: "",
   twitter: "",
 };
@@ -48,7 +48,7 @@ export const skillsSection = {
       fontAwesomeClassname: "vscode-icons:file-type-css",
     },
     {
-      skillName: "sass",
+      skillName: "saas",
       fontAwesomeClassname: "logos:sass",
     },
     {
