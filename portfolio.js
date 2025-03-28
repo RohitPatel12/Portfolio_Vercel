@@ -113,7 +113,7 @@ export const educationInfo = [
   {
     schoolName: "Technocrats Institute of Technology",
     subHeader: "Bachelor in Information Technology",
-    duration: "August 2015 - May 2019",
+    duration: "2015 - 2019",
     desc: "Did B.E with stream Information Technology having 7.10 CGPA.",
     descBullets: [
       "We made a Shop Management System in the name of major project",
@@ -123,7 +123,7 @@ export const educationInfo = [
   {
     schoolName: "Servite Convent School",
     subHeader: "Intermediate with Science Stream",
-    duration: "April 2012 - May 2014",
+    duration: "2014 - 2015",
     desc: "Completed my intermediate with PCM",
     descBullets: [
       "Secured First Rank in city level GK competition consecutively",
@@ -162,6 +162,12 @@ export const projects = [
     desc: "QuickCommerce is a fast and reliable delivery platform designed to bring everyday essentials right to your doorstep. Whether it's groceries, fresh produce, snacks, or household necessities.",
     github: "https://github.com/RohitPatel12/QuickCommerce",
     link: "https://binkeyit-full-stack-ydrn.vercel.app",
+  },
+  {
+    name: "Crypto Tracker App",
+    desc: "Crypto Tracker App lets users track real-time crypto prices, monitor portfolios, and set price alerts for informed trading.",
+    github: "https://github.com/RohitPatel12/Crypto_Tracker",
+    link: "https://crypto-tracker-flax-pi.vercel.app/",
   },
   {
     name: "Zomato Clone",
