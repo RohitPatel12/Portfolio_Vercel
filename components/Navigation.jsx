@@ -124,6 +124,21 @@ const Navigation = () => {
 									</NavLink>
 								</NavItem>
 								<NavItem>
+								<NavLink
+									rel="noopener"
+									aria-label="Email"
+									className="nav-link-icon"
+									href="mailto:itsrohitkpatel@gmail.com"
+									target="_blank"
+								>
+									<i className="fa fa-envelope" />  {/* Standard email icon */}
+									<span className="nav-link-inner--text d-lg-none ml-2">
+									Email
+									</span>
+								</NavLink>
+								</NavItem>
+
+								{/* <NavItem>
 									<NavLink
 										rel="noopener"
 										aria-label="Facebook"
@@ -150,7 +165,7 @@ const Navigation = () => {
 											Twitter
 										</span>
 									</NavLink>
-								</NavItem>
+								</NavItem> */}
 							</Nav>
 						</UncontrolledCollapse>
 					</Container>

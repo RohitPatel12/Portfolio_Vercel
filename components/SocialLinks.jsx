@@ -43,7 +43,25 @@ const SocialLinks = () => {
 					<i className="fa fa-instagram" />
 				</span>
 			</Button>
+			
 			<Button
+			className="btn-icon-only rounded-circle ml-1"
+			style={{ backgroundColor: "#FFFFFF", color: "#4285F4", border: "1px solid #4285F4" }} // White background with Google Blue outline
+			href="mailto:itsrohitkpatel@gmail.com"
+			target="_blank"
+			rel="noopener"
+			aria-label="Gmail"
+			>
+			<span className="btn-inner--icon">
+				<img 
+				src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" 
+				alt="Gmail Logo" 
+				style={{ width: "20px", height: "20px" }} 
+				/>
+			</span>
+			</Button>
+
+			{/* <Button
 				className="btn-icon-only rounded-circle ml-1"
 				color="facebook"
 				href={socialLinks.facebook}
@@ -66,7 +84,7 @@ const SocialLinks = () => {
 				<span className="btn-inner--icon">
 					<i className="fa fa-twitter" />
 				</span>
-			</Button>
+			</Button> */}
 		</div>
 	);
 };

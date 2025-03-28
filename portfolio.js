@@ -19,8 +19,8 @@ export const socialLinks = {
   linkedin: "https://www.linkedin.com/in/rohit-patel-857b5416b/",
   github: "https://github.com/RohitPatel12",
   instagram: "https://www.instagram.com/wah_yar_rohit/?igsh=MWd0a3FwcTRrMDN5Yw%3D%3D&utm_source=qr#",
-  facebook: "",
-  twitter: "",
+  // facebook: "",
+  // twitter: "",
 };
 
 export const skillsSection = {
@@ -64,8 +64,8 @@ export const skillsSection = {
       fontAwesomeClassname: "vscode-icons:file-type-reactjs",
     },
     {
-      skillName: "react-native",
-      fontAwesomeClassname: "vscode-icons:file-type-reactjs",
+      skillName: "express",
+      fontAwesomeClassname: "skill-icons:expressjs-dark",
     },
     {
       skillName: "nodejs",
@@ -84,8 +84,8 @@ export const skillsSection = {
       fontAwesomeClassname: "logos:aws",
     },
     {
-      skillName: "firebase",
-      fontAwesomeClassname: "logos:firebase",
+      skillName: "docker",
+      fontAwesomeClassname: "logos:docker",
     },
     {
       skillName: "git",
@@ -137,14 +137,14 @@ export const experience = [
     role: "Software Developer",
     company: "TCS",
     companylogo: "/img/icons/common/TCS.png",
-    date: "Sep 2022 – Present",
+    date: "2022 – Present",
     desc: "As a software developer, I am responsible for developing and enhancing both web and mobile applications, ensuring smooth functionality, usability, and performance across platforms.",
   },
   {
     role: "Software Engineer",
     company: "TCS",
     companylogo: "/img/icons/common/TCS.png",
-    date: "Apr 2021 – may 2022",
+    date: "2021 – 2022",
     desc: "I worked as a software engineer, crafting efficient and reliable software solutions through design, development, and ongoing maintenance.",
   },
   // {
